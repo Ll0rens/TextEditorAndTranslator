@@ -2,6 +2,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It is importan to set your ACCESS_KEY and SECRET_ACCESS_KEY in TextEditorAndTranslator/src/App.js . If this is not correctly set, the translate is not going to work.
 
 ## Available Scripts
 
