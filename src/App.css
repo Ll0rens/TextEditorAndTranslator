@@ -1,3 +1,18 @@
 .jodit-status-bar {
   visibility: collapse;
 }
+
+.buttons {
+width: 200px;
+margin: 0 auto;
+display: inline;}
+
+    .action_btn {
+width: 200px;
+margin: 0 auto;
+display: inline;}
+
+.Container { /* You Can Name it what you want*/
+  margin-right: 15px;
+  margin-left: 15px;
+}
